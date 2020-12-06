@@ -1,0 +1,72 @@
+<!-- Year 2 Screen -->
+<svg id="year2Screen">
+  <svg id="container">
+    <use id="statsCyle" href="#cycleview">
+      <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+        <set href="#copy/text" attributeName="text-buffer" to="Remember when you asked me to prom?"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+        <set href="#copy/text" attributeName="text-buffer" to="I love you because you wanted to bring a boomer like me to prom"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+        <set href="#copy/text" attributeName="text-buffer" to="Remember our anniversary at the Hancock Tower?"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+        <set href="#copy/text" attributeName="text-buffer" to="I love you because you made me get over my fear of heights"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+        <set href="#copy/text" attributeName="text-buffer" to="Remember when we snuck into OG's and sang karoke?"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+        <set href="#copy/text" attributeName="text-buffer" to="I love you because you make me want to do ballsy things for you"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+        <set href="#copy/text" attributeName="text-buffer" to="Remember when I first smoked pot and you were so unhappy about it?"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+        <set href="#copy/text" attributeName="text-buffer" to="I love you because you change your mindset"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+        <set href="#copy/text" attributeName="text-buffer" to="Remember all the times that I came back to visit you?"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+        <set href="#copy/text" attributeName="text-buffer" to="I love you because I always look forward to seeing you"/>
+      </use>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+        <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+        <set href="#copy/text" attributeName="text-buffer" to="Remember when we went to Lollapoloza"/>
+      </use>
+    </use>
+  </use>
+</svg>

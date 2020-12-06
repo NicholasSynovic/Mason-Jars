@@ -1,0 +1,54 @@
+<!-- Main Screen -->
+<svg id="mainScreen">
+  <use id="tileList" href="#tile-list">
+    <use href="#tile-list-header" class="tile-list-item">
+      <text x="50%" text-anchor="middle">Mason Jars</text>
+    </use>
+
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="dateIdeas" href="#square-button-icon" y="5" fill="coral">
+        <set href="#text"  attributeName="text-buffer" to="Date Ideas" />
+        <set href="#image" attributeName="href" to="images/lightbulb.png" />
+      </use>
+    </use>
+
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="year0" href="#square-button-icon" y="5" fill="coral">
+        <set href="#text"  attributeName="text-buffer" to="Year 0" />
+        <set href="#image" attributeName="href" to="images/zero.png" />
+      </use>
+    </use>
+
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="year1" href="#square-button-icon" y="5" fill="coral">
+        <set href="#text"  attributeName="text-buffer" to="Year 1" />
+        <set href="#image" attributeName="href" to="images/one.png" />
+      </use>
+    </use>
+
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="year2" href="#square-button-icon" y="5" fill="coral">
+        <set href="#text"  attributeName="text-buffer" to="Year 2" />
+        <set href="#image" attributeName="href" to="images/two.png" />
+      </use>
+    </use>
+
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="year3" href="#square-button-icon" y="5" fill="coral">
+        <set href="#text"  attributeName="text-buffer" to="Year 3" />
+        <set href="#image" attributeName="href" to="images/three.png" />
+      </use>
+    </use>
+
+    <use href="#tile-list-item" class="tile-list-item">
+      <use id="credits" href="#square-button-icon" y="5" fill="coral">
+        <set href="#text"  attributeName="text-buffer" to="Credits" />
+        <set href="#image" attributeName="href" to="images/list.png" />
+      </use>
+    </use>
+
+    <use href="#tile-list-footer" class="tile-list-item">
+      <text x="50%" text-anchor="middle">Love you babe!</text>
+    </use>
+  </use>
+</svg>

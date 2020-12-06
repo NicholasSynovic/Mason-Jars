@@ -1,0 +1,661 @@
+<!-- Date Ideas Screen -->
+<svg id="dateIdeasScreen">
+  <svg id="container">
+    <use id="statsCyle" href="#cycleview">
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a drive in movie"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a local play"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a concert performed by a local band/ musician"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a concert performed by a star"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to the beach and tan"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to the local botanical garden"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to design stores and start planning out our home aesthetic together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to an art museum"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a local art gallary"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a farmers market"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a flea market"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go fishing"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go kayaking"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go skydiving"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to Six Flag"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go through our wardrobe and pick out next months fit(s)"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go bungee jumping"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go ziplining"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go bowling"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go rockclimbing"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a local arcade"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go rollarblading"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a trivia competition"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go ice skating"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to an escape room"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go axe throwing"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go skinny dipping late at night"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go play with dogs at the local shelter"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go play laser tag together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go geocaching"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go on a double date with one of our couple friends"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets rent bikes and race each other around the city"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets rent scooters and scoot scoot around town"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Photograph naturescapes and/or cityscapes"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets take dance lessons"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make a pillow fort"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets bake together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets cook something we haven't made before"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets bake against each other (like the Great British Baking Show)"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets go on a breakfast date"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets stay in and cook brunch and make mamosas"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets go out and get brunch and mamosas"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets take a cooking class"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets dress up and go on a bouji dinner night"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets go on a picnic"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets sing some karaoke at a bar"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Try to beat Nick at Just Dance"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets do pottery"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets garden"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets walk the river walk"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets go to a comedy club"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets get a professional massage"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets give each other massages"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go on a lunch date"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets go through our photos and find our favorites"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a local art gallery"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Teach Nick art"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make crafts"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="You be the model, and Nick will photograph you around the city"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets watch Marquette basketball"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go mini golfing"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets watch a spooky scary movie together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets do each others makeup"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets write really bad poetry together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets have a nerf war"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets play Hide n Seek in the park"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets have a water gun fight"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets go skateboarding or longboarding"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets dress each other up in awful outfits"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets have an adult kids party for just us"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets volunteer together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets donate blood together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go tourists in our city"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets build a Lego set"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make legal graffiti"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make a time capsule or our time together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets watch the sunset together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets play a video game together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets play a board game together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Stay and have super sexy fun time all the time"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go frisbee golfing"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets complete a puzzle together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets have a romantic bubble bath"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets watch a show neither of us have seen"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Do a power hour(s) where we complete tasks that we have been putting off"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make slow motion videos of each other"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets write a short story sentance by sentance together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets take on fake identites and try to pick each other up"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make flip books"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets complete Youtube challenges"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets complete TikTok challenges"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets race RC cars against one another"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Stay in and binge watch our new favorite competition show"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a local film festival"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make mixtapes for one another"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets put on a talent show for each other"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets make music for each other using objects around the house"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go for a drive and sing at the top of our lungs"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to the library and recreate our first date"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go workout together"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Let Nick try to teach me code"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets dress up and order in dinner"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets blast music and have a dance party"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets get absolutely shit faced"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go thrifting for new threads"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go ghost hunting in the cemetary"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a corn maze"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Go to a haunted house"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Date Idea"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Lets get spooky for one another"/>
+        </use>
+      </use>
+    </use>
+  </svg>
+</svg>

@@ -1,0 +1,30 @@
+text  {
+  font-family: System-Regular;
+  fill: white;
+
+}
+
+textarea  {
+  font-size: 32;
+  font-weight: regular;
+  fill: white;
+  text-anchor: "middle";
+  display-align: "center";
+}
+
+.tile-list-item {
+  height: 80;
+}
+
+.tile-list-item text {
+  fill: white;
+  height: 32;
+}
+
+.cycle-item textarea {
+  font-size: 32;
+  font-weight: regular;
+  fill: white;
+  text-anchor: "middle";
+  display-align: "center";
+}

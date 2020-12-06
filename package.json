@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.2.0"
+  },
+  "fitbit": {
+    "appUUID": "9572de56-137e-4d78-9cf5-59ea2cdf7dd7",
+    "appType": "app",
+    "appDisplayName": "Mason Jars",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#03a9f4",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "Mason Jars"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

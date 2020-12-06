@@ -1,0 +1,79 @@
+<!-- Year 3 Screen -->
+<svg id="year3Screen">
+  <svg id="container">
+    <use id="statsCyle" href="#cycleview">
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Remember when I sliced my hand open?"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+          <set href="#copy/text" attributeName="text-buffer" to="I love you because you kept me calm"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Remember when I dropped you off at Marquette?"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+          <set href="#copy/text" attributeName="text-buffer" to="I love you because you have grown so much at Marquette"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Remember when COVID-19 first hit?"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+          <set href="#copy/text" attributeName="text-buffer" to="I love you because we had each other"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Remember our COVID-19 scare and we couldn't see each other for two weeks?"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+          <set href="#copy/text" attributeName="text-buffer" to="I love you because when I can't see you I don't feel whole"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Remember when we lasted for this long?"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+          <set href="#copy/text" attributeName="text-buffer" to="I love you because there is no one else that I would rather be with"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Memory"/>
+          <set href="#copy/text" attributeName="text-buffer" to="Remember when we went on vacation with my family?"/>
+        </use>
+      </use>
+      <use href="#cycleview-item" class="cycle-item">
+        <use id="mixedtext" href="#mixed-text-center-mid" height="100%" fill="fb-yellow">
+          <set href="#header/text" attributeName="text-buffer" to="Reason For Love"/>
+          <set href="#copy/text" attributeName="text-buffer" to="I love you because you kick-ass at fishing"/>
+        </use>
+      </use>
+    </use>
+  </svg>
+</svg>

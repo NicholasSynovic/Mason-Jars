@@ -1,0 +1,8 @@
+zero.png image: Icons made by Freepik from www.flaticon.com
+one.png image: Icons made by Freepik from www.flaticon.com
+two.png image: Icons made by Freepik from www.flaticon.com
+three.png image: Icons made by Freepik from www.flaticon.com
+icon.png image: Icons made by Freepik from www.flaticon.com
+lightbulb.png image: Icons made by Good Ware from www.flaticon.com
+list.png image: Icons made by Freepik from www.flaticon.com
+left-arrow.png image: Icons made by Freepik from www.flaticon.com

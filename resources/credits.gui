@@ -1,0 +1,42 @@
+<!-- Credits Screen -->
+<svg id="creditsScreen">
+  <use id="container" href="#panoramaview">
+    <use class="credit" href="#panoramaview-item">
+      <textarea>zero.png image: Icons made by Freepik from www.flaticon.com</textarea>
+    </use>
+    <use class="credit" href="#panoramaview-item">
+      <textarea>one.png image: Icons made by Freepik from www.flaticon.com</textarea>
+    </use>
+    <use class="credit" href="#panoramaview-item">
+      <textarea>two.png image: Icons made by Freepik from www.flaticon.com</textarea>
+    </use>
+    <use class="credit" href="#panoramaview-item">
+      <textarea>three.png image: Icons made by Freepik from www.flaticon.com</textarea>
+    </use>
+    <use class="credit" href="#panoramaview-item">
+      <textarea>icon.png image: Icons made by Freepik from www.flaticon.com</textarea>
+    </use>
+    <use class="credit" href="#panoramaview-item">
+      <textarea>lightbulb.png image: Icons made by Good Ware from www.flaticon.com</textarea>
+    </use>
+    <use class="credit" href="#panoramaview-item">
+      <textarea>list.png image: Icons made by Freepik from www.flaticon.com</textarea>
+    </use>
+    <use class="credit" href="#panoramaview-item">
+      <textarea>left-arrow.png image: Icons made by Freepik from www.flaticon.com</textarea>
+    </use>
+
+    <use id="pagination-dots" href="#pagination-widget" y="8">
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      <use href="#pagination-dot" />
+      
+      <use href="#pagination-highlight-dot" />
+    </use>
+  </use>
+</svg>
